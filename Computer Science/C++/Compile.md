@@ -1,10 +1,8 @@
 Part of the compiler’s job is to look for errors in the program text.
 
-A compiler cannot detect whether a program does what its author intends, but it can detect errors in the _form_ of the program.
+![[Compile Error]]
 
-- [[Syntax error]]
-- [[Type Error]]
-- [[Declaration errors]]
+![[Separate Compilation]]
 
 #### compile with g++ (GNU compiler
 )

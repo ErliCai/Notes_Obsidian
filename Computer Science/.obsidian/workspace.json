@@ -4,191 +4,299 @@
     "type": "split",
     "children": [
       {
-        "id": "8457a127b70ecfe3",
+        "id": "0b9adc8253d8fb6f",
         "type": "tabs",
         "children": [
           {
-            "id": "041a1c101c412dd3",
+            "id": "eeda3c3e87fd1805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++.md",
+                "file": "C++/Default Initialization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "39054b19aa790921",
+            "id": "42340e110e4bd0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Formating.md",
+                "file": "C++/Compile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c2930079add4832",
+            "id": "6050761a85534626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Class.md",
+                "file": "C++/Compile Error.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "900b65f76685d977",
+            "id": "c751b58e405b3677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Comments.md",
+                "file": "C++/Initialization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cccdc1109d91fc1e",
+            "id": "ea3911086b552426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Source File.md",
+                "file": "C++/Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "087919c15d492e38",
+            "id": "d2ef80de28018d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Arithmetic types.md",
+                "file": "C++/Declaration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e69ae9674089782",
+            "id": "22a12ba6d8b7fe43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Arithmetic types.md",
+                "file": "C++/Identifier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cacac206c8641704",
+            "id": "758f6a7045a73d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Type.md",
+                "file": "C++/Run-Time Error.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c4ec5be452466f3",
+            "id": "c73eafea2c690557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Signed and unsigned type.md",
+                "file": "C++/Identifier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bacee86fab28200",
+            "id": "0cd23682131867ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Type.md",
+                "file": "C++/Identifier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "322cabdc66348b42",
+            "id": "7337b92b6aa2a8be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Undefined Behaviour.md",
+                "file": "C++/Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1870215795e99bbd",
+            "id": "05c54732a821dba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Undefined Behaviour.md",
+                "file": "C++/Scope.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34e948087b9c185a",
+            "id": "53114c5c5da963e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Signed and unsigned type.md",
+                "file": "C++/Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a923db1639d46b7a",
+            "id": "346bc786f9167903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Expressions Involving Unsigned Types.md",
+                "file": "Microsoft/RNM/RNM Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d97cff80a4ccbfe8",
+            "id": "f958a8c8b42ecf58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Literal.md",
+                "file": "Microsoft/SDN/SDN Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b008b0ab5f5cdf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/Azure/Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73085f9b1e0cf376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/SDN/SDN Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105a2475f72022df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/SDN/SDN Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d21e4798dfa98eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/SDN/Goal State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e566245a26d5139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/Acronym & Codename Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "813fa07a4312c5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/SDN/SDN Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bebe92a89bde1a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37c790cd5f1afae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 NEW NOTE/Pointer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45eb987e4ca816f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 NEW NOTE/Pointer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -254,11 +362,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Literal.md",
+                "file": "00 NEW NOTE/Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -271,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Literal.md",
+                "file": "00 NEW NOTE/Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Literal.md"
+                "file": "00 NEW NOTE/Pointer.md"
               }
             }
           }
@@ -315,37 +423,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97861db16762e16b",
+  "active": "45eb987e4ca816f1",
   "lastOpenFiles": [
-    "C++/Expressions Involving Unsigned Types.md",
-    "C++/Literal.md",
-    "C++/Type Conversion.md",
-    "C++/Signed and unsigned type.md",
-    "C++/Type.md",
-    "C++/Implementation-Defined Behavior.md",
-    "C++/nonportable.md",
-    "C++/Undefined Behaviour.md",
-    "C++/C++.md",
-    "C++/Float.md",
-    "C++/File Redirection.md",
-    "C++/Machine-Level Representation of the Built-in Types.md",
-    "C++/image/Pasted image 20230420164924.png",
-    "C++/Arithmetic types.md",
-    "C++/Char.md",
-    "C++/image/Pasted image 20230418203007.png",
-    "C++/Comments.md",
-    "C++/image",
-    "C++/Header File.md",
+    "00 NEW NOTE/Pointer v.s. Reference.md",
+    "00 NEW NOTE/Pointer.md",
+    "C++/Reference.md",
+    "C++/Nonportable.md",
+    "Microsoft/Image/Inside_a_node.png",
+    "Microsoft/Azure/High Level Architecture.md",
+    "Microsoft/Image/Cluster_and_Racks.png",
+    "Microsoft/SDN/SDN Architecture.md",
+    "Microsoft/SDN/SDN.md",
+    "Microsoft/SDN/RNM in SDN.md",
+    "Microsoft/SDN/Goal State.md",
+    "Microsoft/Image/RNM_in_SDN.png",
     "00 NEW NOTE/Untitled.md",
-    "C++/Source File.md",
-    "C++/Formating.md",
-    "C++/End of File.md",
-    "C++/Compile.md",
-    "C++/Declaration errors.md",
-    "C++/Class.md",
-    "C++/While.md",
-    "C++/Type Error.md",
-    "C++/Namesapce.md",
+    "Microsoft/Acronym & Codename Glossary.md",
+    "Microsoft/RNM/RNM.md",
+    "Microsoft/RNM/RNM Architecture.md",
+    "Microsoft/Azure/Azure.md",
+    "Microsoft/Azure/ARM.md",
+    "Microsoft/Image/Access_Azure.png",
+    "Microsoft/Image",
+    "C++/image/reserved_literals2.png",
+    "C++/image/reserved_literals.png",
+    "C++/image/literal_prefix_suffix.png",
+    "C++/image/variables_in_memory.png",
+    "C++/image/built_in_types.png",
+    "Microsoft/SDN",
+    "Microsoft/Azure",
+    "Microsoft/RNM",
+    "Microsoft",
+    "C++/Literal.md",
+    "C++/Scope.md",
+    "C++/Compound Type.md",
+    "C++/Declaration.md",
+    "C++/Definition.md",
+    "C++/Identifier.md",
+    "C++/Conventions for Variable Name.md",
+    "C++/Alternative Operator Name.md",
+    "C++/Keywords.md",
+    "C++/C++.md",
+    "C++/Static Typing.md",
+    "C++/image",
     "Untitled.canvas",
     "01 New Attachment",
     "00 NEW NOTE",

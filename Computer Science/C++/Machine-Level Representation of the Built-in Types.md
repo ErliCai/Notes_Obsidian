@@ -4,7 +4,7 @@ On most machines a byte contains 8 bits and a word is either 32 or 64 bits, that
 
 Most computers associate a number (called an “address”) with each byte in memory. On a machine with 8-bit bytes and 32-bit words, we might view a word of memory as follows
 
-![[Pasted image 20230420164924.png]]
+![[variables_in_memory.png]]
 
 Here, the byte’s address is on the left, with the 8 bits of the byte following the address.
 
