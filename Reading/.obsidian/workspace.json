@@ -11,11 +11,26 @@
             "id": "e3926370a86b090d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/The Myth of Sisyphe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea2230624390d956",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +75,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "04863e4fdd575afd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophy/The Myth of Sisyphe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophy/The Myth of Sisyphe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Philosophy/The Myth of Sisyphe.md"
+              }
             }
           }
         ]
@@ -138,6 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3926370a86b090d",
-  "lastOpenFiles": []
+  "active": "ea2230624390d956",
+  "lastOpenFiles": [
+    "Philosophy",
+    "Philosophy/The Myth of Sisyphe.md"
+  ]
 }
