@@ -1,0 +1,3 @@
+- Kludges for a weak programming language
+- **Inefficient solutions**: Patterns try to systematize approaches that are already widely used. This unification is viewed by many as a dogma, and they implement patterns “to the letter”, without adapting them to the context of their project.
+- Unjustified use

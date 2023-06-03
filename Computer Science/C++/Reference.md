@@ -27,7 +27,7 @@ int ii = refVal; // same as ii = ival
 ### Reference Definition
 
 - Each identifier that is a reference must be preceded by the `&` symbol
-- type of a reference and the object to which the reference refers must match exactly (with two exception)
+- type of a reference and the object to which the reference refers must match exactly (with two exception [[Const#Initialization of References to `const`|reference to const]])
 - a reference may be bound only to an object, not to a literal or to the result of a more general expression
 
 Examples:
