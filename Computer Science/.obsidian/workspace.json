@@ -8,30 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85a3f6021f4508a3",
+            "id": "0f664101758d14ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Header File.md",
+                "file": "Rust/Install.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10aed035d53c4b3a",
+            "id": "b74088b750db5454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Pointer.md",
+                "file": "Rust/Install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9f2feb33791ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02cd72c018c6eec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Header File.md",
+                "file": "Rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Header File.md",
+                "file": "Rust/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Header File.md"
+                "file": "Rust/Rust.md"
               }
             }
           }
@@ -166,13 +191,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a3f6021f4508a3",
+  "active": "02cd72c018c6eec9",
   "lastOpenFiles": [
+    "Rust/Cargo.md",
+    "Rust/Install.md",
+    "Rust/Rust.md",
+    "Rust/TOML.md",
+    "C++/Untitled 1.md",
+    "C++/Header File.md",
+    "Rust",
     "C++/Error.md",
     "C++/Compile.md",
     "C++/Auto.md",
     "C++/Class.md",
-    "C++/Untitled.md",
     "C++/decltype.md",
     "C++/Type Alias.md",
     "C++/Compound Type.md",
@@ -190,12 +221,7 @@
     "others/File Redirection.md",
     "C++/Pointer with Reference.md",
     "C++/Uninitialized pointers.md",
-    "C++/Void Pointer.md",
-    "design patterns/Design patterns.md",
-    "others/Add app to PATH in macOS.md",
     "others",
-    "design patterns/What is design pattern.md",
-    "design patterns/Downsides of design pattern.md",
     "design patterns",
     "Microsoft/Image/Inside_a_node.png",
     "Microsoft/Image/Cluster_and_Racks.png",
@@ -212,7 +238,6 @@
     "Microsoft/RNM",
     "Microsoft",
     "C++/image",
-    "Untitled.canvas",
-    "01 New Attachment"
+    "Untitled.canvas"
   ]
 }
