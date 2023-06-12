@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Cargo.md",
+                "file": "C++/Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Rust.md",
+                "file": "C++/Initialization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38878a307a981804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d941152e307d3a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Companion Type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Rust.md",
+                "file": "C++/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Rust.md",
+                "file": "C++/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Rust.md"
+                "file": "C++/String.md"
               }
             }
           }
@@ -191,36 +215,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02cd72c018c6eec9",
+  "active": "38878a307a981804",
   "lastOpenFiles": [
+    "C++/decltype.md",
+    "C++/Auto.md",
+    "C++/String.md",
+    "C++/Companion Type.md",
+    "C++/While.md",
+    "C++/image/String Operation.png",
+    "C++/Copy Initialization.md",
+    "C++/Initialization.md",
+    "C++/Namesapce.md",
+    "C++/List Initialization.md",
+    "C++/Default Initialization.md",
+    "C++/image/String Intialization.png",
+    "C++/Library Type.md",
+    "C++/Type.md",
+    "Untitled.canvas",
+    "C++/Preprocessor.md",
+    "C++/Header File.md",
+    "C++/Class.md",
     "Rust/Cargo.md",
-    "Rust/Install.md",
     "Rust/Rust.md",
+    "Rust/Install.md",
     "Rust/TOML.md",
     "C++/Untitled 1.md",
-    "C++/Header File.md",
     "Rust",
     "C++/Error.md",
     "C++/Compile.md",
-    "C++/Auto.md",
-    "C++/Class.md",
-    "C++/decltype.md",
     "C++/Type Alias.md",
     "C++/Compound Type.md",
     "C++/Char.md",
     "C++/C++.md",
-    "C++/Arithmetic types.md",
-    "C++/Constexpr.md",
-    "C++/Constant Expression.md",
     "C++/Untitled",
-    "C++/Const.md",
-    "C++/Reference.md",
-    "C++/Pointer.md",
-    "C++/Definition.md",
-    "C++/Declaration.md",
-    "others/File Redirection.md",
-    "C++/Pointer with Reference.md",
-    "C++/Uninitialized pointers.md",
     "others",
     "design patterns",
     "Microsoft/Image/Inside_a_node.png",
@@ -232,12 +259,10 @@
     "C++/image/reserved_literals.png",
     "C++/image/literal_prefix_suffix.png",
     "C++/image/variables_in_memory.png",
-    "C++/image/built_in_types.png",
     "Microsoft/SDN",
     "Microsoft/Azure",
     "Microsoft/RNM",
     "Microsoft",
-    "C++/image",
-    "Untitled.canvas"
+    "C++/image"
   ]
 }

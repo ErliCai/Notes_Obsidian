@@ -1,3 +1,4 @@
+
 Class defines a type along with a collection of operations that are related to that type
 
 To use a class, we need not care about how it is implemented. Instead, what we need to know is what operations objects of that type can perform.
@@ -23,3 +24,10 @@ The class body defines the `members` of the class
 bookNo, units_sold, revenue are data member of Sales_data
 
 Under the new standard, we can supply an `in-class initializer` for a data member. When we create objects, the in-class initializers will be used to initialize the data members. Members without an initializer are default initialized
+
+### Defining a class
+
+When we define a class outside of a function, there may be only one definition of that class in any given source file. In addition, if we use a class in several different files, the class’ definition must be the same in each file.
+
+In order to ensure that the class definition is the same in each file, classes are usually defined in [[Header File]]. Typically, classes are stored in headers whose name derives from the name of the class
+

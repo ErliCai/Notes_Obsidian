@@ -11,7 +11,8 @@ int units_sold(0);
 ```
 
 
-[[List Initialization]]
+![[List Initialization]]
 
-[[Default Initialization]]
+![[Default Initialization]]
 
+![[Copy Initialization]]

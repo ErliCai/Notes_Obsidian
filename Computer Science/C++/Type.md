@@ -15,3 +15,5 @@ see more in [[Machine-Level Representation of the Built-in Types]]
 [[Signed and unsigned type]]
 
 ![[Type Conversion#Build-in types]]
+
+![[Library Type]]
