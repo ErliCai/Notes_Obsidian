@@ -56,31 +56,55 @@
             }
           },
           {
-            "id": "38878a307a981804",
+            "id": "d941152e307d3a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/String.md",
+                "file": "others/File Redirection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d941152e307d3a9e",
+            "id": "3f43dad47ca36dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Companion Type.md",
+                "file": "Career/大厂晋升指南/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e180cef8cf0dc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "others/File Redirection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e6772fd89b72eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful Links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "right": {
     "id": "501aeef342d29ba5",
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/String.md",
+                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/String.md",
+                "file": "Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/String.md"
+                "file": "Useful Links.md"
               }
             }
           }
@@ -215,11 +239,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38878a307a981804",
+  "active": "97861db16762e16b",
   "lastOpenFiles": [
+    "others/File Redirection.md",
+    "Useful Links.md",
+    "Career/大厂晋升指南/晋升体系.md",
+    "Career/大厂晋升指南/Intro.md",
+    "Career/大厂晋升指南/image",
+    "Career/大厂晋升指南/image/about this course.png",
+    "Career/大厂晋升指南",
+    "Career",
+    "others/Add app to PATH in macOS.md",
+    "Untitled.canvas",
+    "C++/String.md",
     "C++/decltype.md",
     "C++/Auto.md",
-    "C++/String.md",
     "C++/Companion Type.md",
     "C++/While.md",
     "C++/image/String Operation.png",
@@ -231,7 +265,6 @@
     "C++/image/String Intialization.png",
     "C++/Library Type.md",
     "C++/Type.md",
-    "Untitled.canvas",
     "C++/Preprocessor.md",
     "C++/Header File.md",
     "C++/Class.md",
@@ -242,11 +275,6 @@
     "C++/Untitled 1.md",
     "Rust",
     "C++/Error.md",
-    "C++/Compile.md",
-    "C++/Type Alias.md",
-    "C++/Compound Type.md",
-    "C++/Char.md",
-    "C++/C++.md",
     "C++/Untitled",
     "others",
     "design patterns",
@@ -258,11 +286,7 @@
     "C++/image/reserved_literals2.png",
     "C++/image/reserved_literals.png",
     "C++/image/literal_prefix_suffix.png",
-    "C++/image/variables_in_memory.png",
     "Microsoft/SDN",
-    "Microsoft/Azure",
-    "Microsoft/RNM",
-    "Microsoft",
-    "C++/image"
+    "Microsoft/Azure"
   ]
 }
