@@ -97,6 +97,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Career/大厂晋升指南/晋升体系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d97cff6e55b5ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Useful Links.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -239,11 +251,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97861db16762e16b",
+  "active": "1d97cff6e55b5ddf",
   "lastOpenFiles": [
-    "others/File Redirection.md",
-    "Useful Links.md",
+    "networking/趣谈网络协议/Intro.md",
+    "networking/趣谈网络协议",
     "Career/大厂晋升指南/晋升体系.md",
+    "networking",
+    "Career/大厂晋升指南/Pasted image 20230613012354.png",
+    "Career/大厂晋升指南/image/align with manager.png",
+    "Useful Links.md",
+    "others/File Redirection.md",
     "Career/大厂晋升指南/Intro.md",
     "Career/大厂晋升指南/image",
     "Career/大厂晋升指南/image/about this course.png",
@@ -272,9 +289,7 @@
     "Rust/Rust.md",
     "Rust/Install.md",
     "Rust/TOML.md",
-    "C++/Untitled 1.md",
     "Rust",
-    "C++/Error.md",
     "C++/Untitled",
     "others",
     "design patterns",
@@ -283,10 +298,6 @@
     "Microsoft/Image/RNM_in_SDN.png",
     "Microsoft/Image/Access_Azure.png",
     "Microsoft/Image",
-    "C++/image/reserved_literals2.png",
-    "C++/image/reserved_literals.png",
-    "C++/image/literal_prefix_suffix.png",
-    "Microsoft/SDN",
-    "Microsoft/Azure"
+    "C++/image/reserved_literals2.png"
   ]
 }
