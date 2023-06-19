@@ -109,14 +109,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Career/大厂晋升指南/晋升体系.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e18584a333a11f8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Career/大厂晋升指南/晋升体系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Career/大厂晋升指南/晋升体系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links.md"
+                "file": "Career/大厂晋升指南/晋升体系.md"
               }
             }
           }
@@ -251,15 +261,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d97cff6e55b5ddf",
+  "active": "e18584a333a11f8f",
   "lastOpenFiles": [
+    "Useful Links.md",
     "networking/趣谈网络协议/Intro.md",
     "networking/趣谈网络协议",
     "Career/大厂晋升指南/晋升体系.md",
     "networking",
     "Career/大厂晋升指南/Pasted image 20230613012354.png",
     "Career/大厂晋升指南/image/align with manager.png",
-    "Useful Links.md",
     "others/File Redirection.md",
     "Career/大厂晋升指南/Intro.md",
     "Career/大厂晋升指南/image",
