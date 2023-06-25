@@ -8,125 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f664101758d14ad",
+            "id": "f7d06caa46a20a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Install.md",
+                "file": "C++/Const.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b74088b750db5454",
+            "id": "2bc401aaae420c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Install.md",
+                "file": "C++/C++.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c9f2feb33791ac0",
+            "id": "886defc9a31d7fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Class.md",
+                "file": "C++/Iterator.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02cd72c018c6eec9",
+            "id": "10aed035d53c4b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Initialization.md",
+                "file": "C++/Compile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d941152e307d3a9e",
+            "id": "051779b9e1655eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/File Redirection.md",
+                "file": "C++/Array.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3f43dad47ca36dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/大厂晋升指南/Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e180cef8cf0dc5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "others/File Redirection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e6772fd89b72eca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/大厂晋升指南/晋升体系.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d97cff6e55b5ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/大厂晋升指南/晋升体系.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e18584a333a11f8f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "right": {
     "id": "501aeef342d29ba5",
@@ -200,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/大厂晋升指南/晋升体系.md",
+                "file": "C++/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/大厂晋升指南/晋升体系.md",
+                "file": "C++/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/大厂晋升指南/晋升体系.md"
+                "file": "C++/Array.md"
               }
             }
           }
@@ -261,53 +203,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e18584a333a11f8f",
+  "active": "051779b9e1655eac",
   "lastOpenFiles": [
-    "Useful Links.md",
+    "C++/Run-Time Error.md",
+    "C++/Array.md",
+    "C++/Const.md",
+    "C++/Header File.md",
+    "C++/Compile.md",
+    "C++/Iterator.md",
+    "C++/image/Iterator Operations.png",
+    "C++/C++.md",
+    "C++/String.md",
+    "C++/vector.md",
+    "C++/image/Vector Operations.png",
+    "C++/image/vector_initialization.png",
+    "C++/Auto.md",
+    "C++/image/cctype.png",
+    "C++/Pointer.md",
+    "C++/Companion Type.md",
     "networking/趣谈网络协议/Intro.md",
     "networking/趣谈网络协议",
-    "Career/大厂晋升指南/晋升体系.md",
     "networking",
-    "Career/大厂晋升指南/Pasted image 20230613012354.png",
-    "Career/大厂晋升指南/image/align with manager.png",
-    "others/File Redirection.md",
-    "Career/大厂晋升指南/Intro.md",
-    "Career/大厂晋升指南/image",
-    "Career/大厂晋升指南/image/about this course.png",
-    "Career/大厂晋升指南",
-    "Career",
-    "others/Add app to PATH in macOS.md",
-    "Untitled.canvas",
-    "C++/String.md",
-    "C++/decltype.md",
-    "C++/Auto.md",
-    "C++/Companion Type.md",
-    "C++/While.md",
-    "C++/image/String Operation.png",
-    "C++/Copy Initialization.md",
-    "C++/Initialization.md",
-    "C++/Namesapce.md",
-    "C++/List Initialization.md",
-    "C++/Default Initialization.md",
-    "C++/image/String Intialization.png",
-    "C++/Library Type.md",
-    "C++/Type.md",
-    "C++/Preprocessor.md",
-    "C++/Header File.md",
-    "C++/Class.md",
-    "Rust/Cargo.md",
+    "Useful Links.md",
+    "Rust/TOML.md",
     "Rust/Rust.md",
     "Rust/Install.md",
-    "Rust/TOML.md",
+    "Rust/Cargo.md",
     "Rust",
+    "Career/大厂晋升指南/晋升体系.md",
+    "Career/大厂晋升指南/image/align with manager.png",
+    "Career/大厂晋升指南/image/about this course.png",
+    "Career/大厂晋升指南/image",
+    "Career/大厂晋升指南/Pasted image 20230613012354.png",
+    "Career/大厂晋升指南/Intro.md",
+    "Career/大厂晋升指南",
+    "Career",
+    "C++/image/String Operation.png",
+    "C++/image/String Intialization.png",
+    "C++/Preprocessor.md",
+    "C++/Library Type.md",
+    "C++/Copy Initialization.md",
+    "C++/Error.md",
+    "C++/Class.md",
+    "C++/decltype.md",
     "C++/Untitled",
     "others",
     "design patterns",
     "Microsoft/Image/Inside_a_node.png",
-    "Microsoft/Image/Cluster_and_Racks.png",
-    "Microsoft/Image/RNM_in_SDN.png",
-    "Microsoft/Image/Access_Azure.png",
     "Microsoft/Image",
-    "C++/image/reserved_literals2.png"
+    "Untitled.canvas"
   ]
 }
