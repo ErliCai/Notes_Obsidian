@@ -80,3 +80,17 @@ cout << ivec[0];       // error: ivec has no elements!
 ```
 
 Attempting to subscript elements that do not exist is, unfortunately, an extremely common and pernicious programming error. So-called **buffer overflow** errors are the result of subscripting elements that don’t exist. Such bugs are the most common cause of security problems in PC and other applications.
+
+
+#### use array to initialize vector
+
+we noted that we cannot initialize a built-in array from another array. Nor can we initialize an array from a `vector`. However, we can use an array to initialize a `vector`.
+
+```
+int int_arr[] = {0, 1, 2, 3, 4, 5};  
+// ivec has six elements; each is a copy of the corresponding element in int_arr  
+vector<int> ivec(begin(int_arr), end(int_arr));
+
+// copies three elements: int_arr[1], int_arr[2], int_arr[3]  
+vector<int> subVec(int_arr + 1, int_arr + 4);
+```

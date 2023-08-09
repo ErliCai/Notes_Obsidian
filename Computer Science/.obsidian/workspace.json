@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "C++/vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a589052c5707af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "C++/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7283f4d55b485748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/String.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Array.md",
+                "file": "C++/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Array.md",
+                "file": "C++/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Array.md"
+                "file": "C++/String.md"
               }
             }
           }
@@ -203,18 +227,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "051779b9e1655eac",
+  "active": "7283f4d55b485748",
   "lastOpenFiles": [
-    "C++/Run-Time Error.md",
+    "C++/Lvalue Rvalue.md",
     "C++/Array.md",
     "C++/Const.md",
+    "C++/Initialization v.s. Assignment.md",
+    "C++/Initialization.md",
+    "C++/Arithmetic types.md",
+    "C++/Formating.md",
+    "C++/().md",
+    "C++/vector.md",
+    "C++/image/cStringFuncs.png",
+    "C++/String.md",
+    "Untitled.canvas",
+    "2023-07-13.md",
+    "others/Add app to PATH in macOS.md",
+    "networking/RPC/Implementing Remote Procedure Calls.md",
+    "networking/RPC/image/rpc structure.png",
+    "networking/RPC/image",
+    "networking/rpc.md",
+    "networking/RPC",
+    "C++/Run-Time Error.md",
     "C++/Header File.md",
     "C++/Compile.md",
     "C++/Iterator.md",
     "C++/image/Iterator Operations.png",
     "C++/C++.md",
-    "C++/String.md",
-    "C++/vector.md",
     "C++/image/Vector Operations.png",
     "C++/image/vector_initialization.png",
     "C++/Auto.md",
@@ -227,30 +266,15 @@
     "Useful Links.md",
     "Rust/TOML.md",
     "Rust/Rust.md",
-    "Rust/Install.md",
-    "Rust/Cargo.md",
     "Rust",
-    "Career/大厂晋升指南/晋升体系.md",
     "Career/大厂晋升指南/image/align with manager.png",
     "Career/大厂晋升指南/image/about this course.png",
     "Career/大厂晋升指南/image",
     "Career/大厂晋升指南/Pasted image 20230613012354.png",
-    "Career/大厂晋升指南/Intro.md",
     "Career/大厂晋升指南",
     "Career",
     "C++/image/String Operation.png",
-    "C++/image/String Intialization.png",
-    "C++/Preprocessor.md",
-    "C++/Library Type.md",
-    "C++/Copy Initialization.md",
-    "C++/Error.md",
-    "C++/Class.md",
-    "C++/decltype.md",
     "C++/Untitled",
-    "others",
-    "design patterns",
-    "Microsoft/Image/Inside_a_node.png",
-    "Microsoft/Image",
-    "Untitled.canvas"
+    "others"
   ]
 }
