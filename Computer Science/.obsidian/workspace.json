@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Array.md",
+                "file": "Useful Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Array.md",
+                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Array.md",
+                "file": "Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Array.md"
+                "file": "Useful Links.md"
               }
             }
           }
@@ -205,11 +205,14 @@
   },
   "active": "051779b9e1655eac",
   "lastOpenFiles": [
-    "C++/Run-Time Error.md",
-    "C++/Array.md",
-    "C++/Const.md",
-    "C++/Header File.md",
+    "Career/大厂晋升指南/晋升体系.md",
+    "Career/大厂晋升指南/image/promotion stages.png",
     "C++/Compile.md",
+    "C++/Header File.md",
+    "C++/Array.md",
+    "C++/List Initialization.md",
+    "C++/Run-Time Error.md",
+    "C++/Const.md",
     "C++/Iterator.md",
     "C++/image/Iterator Operations.png",
     "C++/C++.md",
@@ -230,11 +233,9 @@
     "Rust/Install.md",
     "Rust/Cargo.md",
     "Rust",
-    "Career/大厂晋升指南/晋升体系.md",
     "Career/大厂晋升指南/image/align with manager.png",
     "Career/大厂晋升指南/image/about this course.png",
     "Career/大厂晋升指南/image",
-    "Career/大厂晋升指南/Pasted image 20230613012354.png",
     "Career/大厂晋升指南/Intro.md",
     "Career/大厂晋升指南",
     "Career",
@@ -244,8 +245,6 @@
     "C++/Library Type.md",
     "C++/Copy Initialization.md",
     "C++/Error.md",
-    "C++/Class.md",
-    "C++/decltype.md",
     "C++/Untitled",
     "others",
     "design patterns",
