@@ -1,88 +1,46 @@
 {
   "main": {
-    "id": "9fc78b884dc68d64",
+    "id": "1823ae04ba67cc1c",
     "type": "split",
     "children": [
       {
-        "id": "a24d8c79949b48e2",
+        "id": "87e75bc44b7ecb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d06caa46a20a7c",
+            "id": "cc0d9f9d1362c164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Const.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "2bc401aaae420c60",
+            "id": "cf7bbc00c7b9fe36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "C++/C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "886defc9a31d7fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Iterator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10aed035d53c4b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Compile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "051779b9e1655eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful Links.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.7"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "88b793a77ce2a8ef",
+    "id": "e252e504a005c128",
     "type": "split",
     "children": [
       {
-        "id": "7877d359b09bf2a4",
+        "id": "69a8e241cc689c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "97861db16762e16b",
+            "id": "635d0f8709cf60c7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +50,7 @@
             }
           },
           {
-            "id": "ec4a7dfed715bc9e",
+            "id": "0fbe505088a0fbef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,15 +65,7 @@
             }
           },
           {
-            "id": "c36570c2e0337446",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "5836ceb85f5a1ecf",
+            "id": "b08325a0c17bcd7f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -126,27 +76,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 300
   },
   "right": {
-    "id": "501aeef342d29ba5",
+    "id": "babc6636dc8ae7b7",
     "type": "split",
     "children": [
       {
-        "id": "9aa44ee7208ba535",
+        "id": "4cba957251e1417f",
         "type": "tabs",
         "children": [
           {
-            "id": "04826a53aa567058",
+            "id": "78bf1d03e0570796",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -154,19 +103,18 @@
             }
           },
           {
-            "id": "89ff6e00f1fe2768",
+            "id": "59e3d716dbd2dc14",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c3f8d49d07c70d76",
+            "id": "4b979f8d12cd0d49",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,13 +125,11 @@
             }
           },
           {
-            "id": "0d4af4dc7a5137ce",
+            "id": "2b094936c76e24bc",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Useful Links.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,53 +149,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "051779b9e1655eac",
-  "lastOpenFiles": [
-    "Career/大厂晋升指南/晋升体系.md",
-    "Career/大厂晋升指南/image/promotion stages.png",
-    "C++/Compile.md",
-    "C++/Header File.md",
-    "C++/Array.md",
-    "C++/List Initialization.md",
-    "C++/Run-Time Error.md",
-    "C++/Const.md",
-    "C++/Iterator.md",
-    "C++/image/Iterator Operations.png",
-    "C++/C++.md",
-    "C++/String.md",
-    "C++/vector.md",
-    "C++/image/Vector Operations.png",
-    "C++/image/vector_initialization.png",
-    "C++/Auto.md",
-    "C++/image/cctype.png",
-    "C++/Pointer.md",
-    "C++/Companion Type.md",
-    "networking/趣谈网络协议/Intro.md",
-    "networking/趣谈网络协议",
-    "networking",
-    "Useful Links.md",
-    "Rust/TOML.md",
-    "Rust/Rust.md",
-    "Rust/Install.md",
-    "Rust/Cargo.md",
-    "Rust",
-    "Career/大厂晋升指南/image/align with manager.png",
-    "Career/大厂晋升指南/image/about this course.png",
-    "Career/大厂晋升指南/image",
-    "Career/大厂晋升指南/Intro.md",
-    "Career/大厂晋升指南",
-    "Career",
-    "C++/image/String Operation.png",
-    "C++/image/String Intialization.png",
-    "C++/Preprocessor.md",
-    "C++/Library Type.md",
-    "C++/Copy Initialization.md",
-    "C++/Error.md",
-    "C++/Untitled",
-    "others",
-    "design patterns",
-    "Microsoft/Image/Inside_a_node.png",
-    "Microsoft/Image",
-    "Untitled.canvas"
-  ]
+  "active": "cf7bbc00c7b9fe36",
+  "lastOpenFiles": []
 }
