@@ -85,6 +85,17 @@ could write <hr> <br> without closing tag
 ```
 img is a self closing tag
 
+
+### Multipage website
+
+#### file path
+- absolute file path: file path relative to the root of the computer
+- relative file path: relative to location where we are writing the code
+
+relative file path: shorter and validate while moving folder around
+
+
+
 ### other
 
 #### Nesting and indentation
@@ -122,3 +133,25 @@ e.g.
 - global attribute
 In addition to attribute specific to a tag, there are also global attributes, that every tag has access to.
 e.g. draggable
+
+#### HTML Boilerplate
+```
+<!DOCTYPE html>   // doctype declaration
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title> website title </title>
+  </head>
+
+  <body>
+    //content of website
+  </body>
+</html>
+```
+
+
+#### hosting website
+
+hosting website: make your site available everywhere on earth by puting all data of site on a web server
+
+how to host page on github: https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350028#notes
