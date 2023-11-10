@@ -19,4 +19,21 @@ rnm ignored setting need to be in format:
 ```
 
 ### bucketization
+86 total incidents
 
+33 about first party
+2 IncompatibleCacheItemException
+3 nullref
+7 PopulateDnsPropertiesOnPrivateEndpoint
+
+6 FabricNotPrimaryException
+3 FabricNotReadableException
+(8-3-3) primary Failover
+
+
+4 PerformWithRetryAsync
+
+3 ValidatePrivateEndpointCustomNicName
+3 ValidatePutPecProxyResponse
+
+others don't have more than 2 occurence
