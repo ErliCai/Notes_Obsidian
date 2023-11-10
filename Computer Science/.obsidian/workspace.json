@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "deaee6c5c19cd83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14a4bd3c4b8f6b87",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/CSS.md",
+                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/CSS.md"
+                "file": "networking/RPC/Implementing Remote Procedure Calls.md"
               }
             }
           },
@@ -168,10 +181,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da12ae373c595e44",
+  "active": "deaee6c5c19cd83f",
   "lastOpenFiles": [
-    "Web Development/image/box model.png",
+    "networking/RPC/image/rpc structure.png",
+    "Reading/Azure/Accelerating the pace of innovation with Azure Space and our partners.md",
+    "Microsoft/SDN/SDN Architecture.md",
+    "Microsoft/SDN/SDN.md",
+    "Microsoft/SDN/RNM in SDN.md",
+    "Microsoft/SDN/Goal State.md",
+    "Microsoft/RNM/RNM.md",
+    "Microsoft/RNM/RNM Architecture.md",
+    "Microsoft/Azure/High Level Architecture.md",
+    "Microsoft/Azure/Azure.md",
+    "Microsoft/Azure/ARM.md",
+    "Reading/Azure",
+    "Reading",
     "Web Development/CSS.md",
+    "Untitled.canvas",
+    "Web Development/image/box model.png",
     "Web Development/HTML.md",
     "Web Development/Interesting sites.md",
     "C++/Class.md",
@@ -181,7 +208,6 @@
     "C++/Scope.md",
     "Web Development/Web basics.md",
     "Useful Links.md",
-    "Untitled.canvas",
     "Web Development",
     "networking/Computer network and internet.md",
     "networking/image/some pieces of internet.png",
