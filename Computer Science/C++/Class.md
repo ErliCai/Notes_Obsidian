@@ -1,4 +1,7 @@
 
+
+### Introduction
+
 Class defines a type along with a collection of operations that are related to that type
 
 To use a class, we need not care about how it is implemented. Instead, what we need to know is what operations objects of that type can perform.
@@ -19,6 +22,20 @@ struct Sales_data { /* ... */ } accum, trans, *salesptr;
 
 The class body defines the `members` of the class
 
+#### why we need defining our own data types
+
+By defining types that mirror concepts in problems we want to solve, we can make our program easier to write, debug and modify
+
+#### fundamental ideas 
+
+- **data abstraction**
+    separation of interface and implementation
+- **encapsulation**
+    enforces separation and hide implementation
+
+A class that uses data abstraction and encapsulation define a `abstract data type`
+
+programmer don't need to know how the type works, instead can think abstractly about what the type does.
 ### Data member
 
 bookNo, units_sold, revenue are data member of Sales_data

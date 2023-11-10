@@ -132,4 +132,52 @@ select everything
     1pt (1/72 inch)
     1em (100% of parent)
     1rem (100% of root)
+    named sizes (e.g. xx-large)
+- font-weight
+    normal
+    bold
+    lighter (-100)
+    bolder (+100)
+    number (100-900)
 - font-family
+    how your text looks like
+- text align
+
+```
+h1{
+  font-family: Helvetica, sans-serif
+}
+```
+Helvetica: a particular typeface
+sans-serif: backup generic font type
+
+Here Helvetica is a font only for mac and windows user will see the backup font type
+##### sans serif vs serif
+both are most common font types
+
+serif: has feet at edge of letters
+sans serif: most edges are right angle
+
+![[serif font.png]]
+
+
+
+### The box model
+
+- width/height: px or percentage
+- border: does not change height/width of box; , border goes outwards
+    e.g. `borde`r: 10px solid black (thickness style color)
+    can set individual side  `border-top`: 0px;
+    `border-width` goes clockwise form top if given 4 values;
+    if given 2 value, set top and bottom, and then left and right
+- margin: space outside of border
+- padding: pushes border out and add spacing between elements
+
+![[box model.png]]
+
+#### grouping elements together for styling
+```
+<div> content </div>
+```
+
+contents between div tags will be grouped together into one box
