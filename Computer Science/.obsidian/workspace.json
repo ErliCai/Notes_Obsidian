@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "deaee6c5c19cd83f",
+            "id": "e99d5f592329dd14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14a4bd3c4b8f6b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Interesting sites.md",
+                "file": "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "babc6636dc8ae7b7",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
+                "file": "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/RPC/Implementing Remote Procedure Calls.md",
+                "file": "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/RPC/Implementing Remote Procedure Calls.md"
+                "file": "Microsoft/Azure/Azure Networking/Azure Networking Overview.md"
               }
             }
           },
@@ -181,19 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deaee6c5c19cd83f",
+  "active": "e99d5f592329dd14",
   "lastOpenFiles": [
-    "networking/RPC/image/rpc structure.png",
-    "Reading/Azure/Accelerating the pace of innovation with Azure Space and our partners.md",
-    "Microsoft/SDN/SDN Architecture.md",
-    "Microsoft/SDN/SDN.md",
-    "Microsoft/SDN/RNM in SDN.md",
-    "Microsoft/SDN/Goal State.md",
-    "Microsoft/RNM/RNM.md",
-    "Microsoft/RNM/RNM Architecture.md",
     "Microsoft/Azure/High Level Architecture.md",
     "Microsoft/Azure/Azure.md",
-    "Microsoft/Azure/ARM.md",
+    "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
+    "Microsoft/Azure/Azure Networking/ARM.md",
+    "Microsoft/Azure/Azure Networking",
+    "networking/RPC/Implementing Remote Procedure Calls.md",
+    "networking/RPC/image/rpc structure.png",
+    "Reading/Azure/Accelerating the pace of innovation with Azure Space and our partners.md",
+    "Microsoft/Azure/Azure Networking/SDN/SDN Architecture.md",
+    "Microsoft/Azure/Azure Networking/SDN/SDN.md",
+    "Microsoft/Azure/Azure Networking/SDN/RNM in SDN.md",
+    "Microsoft/Azure/Azure Networking/SDN/Goal State.md",
+    "Microsoft/Azure/Azure Networking/RNM/RNM.md",
+    "Microsoft/Azure/Azure Networking/RNM/RNM Architecture.md",
     "Reading/Azure",
     "Reading",
     "Web Development/CSS.md",
