@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "babc6636dc8ae7b7",
@@ -172,10 +171,10 @@
   },
   "active": "e99d5f592329dd14",
   "lastOpenFiles": [
-    "Microsoft/Azure/High Level Architecture.md",
-    "Microsoft/Azure/Azure.md",
-    "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
     "Microsoft/Azure/Azure Networking/ARM.md",
+    "Microsoft/Azure/Azure Networking/Azure Networking Overview.md",
+    "Microsoft/Azure/Azure.md",
+    "Microsoft/Azure/High Level Architecture.md",
     "Microsoft/Azure/Azure Networking",
     "networking/RPC/Implementing Remote Procedure Calls.md",
     "networking/RPC/image/rpc structure.png",
