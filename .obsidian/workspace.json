@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13b5a08cc069da1e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af80cf5f079b5b11",
+  "active": "13b5a08cc069da1e",
   "lastOpenFiles": [
     "Work/23-24 Geranium/TODO.md",
     "Work/23-24 Geranium/completed projects/Remove IM01 Dependency.md",

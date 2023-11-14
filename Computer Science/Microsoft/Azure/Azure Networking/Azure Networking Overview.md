@@ -79,3 +79,45 @@ provides DNS hosting and resolution
 #### Route Server
 - simplifies dynamic routing
 
+
+### Application protection services
+
+networking services in Azure that help protect your network resources
+
+#### DDoS Protection
+
+- provides countermeasures against the most sophisticated DDoS threats
+- provides enhanced DDoS mitigation capabilities
+
+Two tiers:
+
+- `DDoS Network Protection`: combined with application design best practices, provides enhanced DDoS mitigation features to defend against DDoS attacks
+- `DDoS IP Protection`:  pay-per-protected IP model. Value-added services: DDoS rapid response support, cost protection, and discounts on WAF.
+
+#### Azure Private Link
+
+- enables you to access Azure PaaS Services and Azure hosted customer-owned/partner services over a private endpoint in your virtual network
+- Traffic between your virtual network and the service travels through the Microsoft backbone network
+-  Exposing your service to the public internet is no longer necessary
+
+#### Azure Firewall
+
+- a managed, cloud-based network security service
+- create, enforce, and log application and network connectivity policies across subscriptions and virtual networks
+
+#### Network security groups
+
+filter network traffic to and from Azure resources in an Azure virtual network
+
+#### Service endpoints
+
+- extend your virtual network private address space and the identity of your VNet to the Azure services, over a direct connection
+- secure your critical Azure service resources to only your virtual networks
+- Traffic from your VNet to the Azure service always remains on the Microsoft Azure backbone network
+
+### Application delivery services
+
+networking services in Azure that help deliver applications
+
+#### Azure Front Door
+
