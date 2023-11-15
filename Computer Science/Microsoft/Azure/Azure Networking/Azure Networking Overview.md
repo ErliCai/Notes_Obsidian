@@ -121,3 +121,40 @@ networking services in Azure that help deliver applications
 
 #### Azure Front Door
 
+- define, manage, and monitor the global routing for your web traffic
+- optimizing for best performance and instant global failover for high availability
+- transform your global (multi-region) consumer and enterprise applications into robust, high-performance personalized modern applications, APIs, and content that reach a global audience
+
+#### Traffic Manager
+
+- DNS-based traffic load balancer that enables you to distribute traffic optimally to services across global Azure regions
+- provides a range of traffic-routing methods to distribute traffic such as priority, weighted, performance, geographic, multi-value, or subnet.
+#### Load Balancer
+
+- provides high-performance, low-latency Layer 4 load-balancing for all UDP and TCP protocols
+- manages inbound and outbound connections
+- define rules to map inbound connections to back-end pool destinations
+#### Application Gateway
+
+- web traffic load balancer that enables you to manage traffic to your web applications
+- offering various layer 7 load-balancing capabilities
+
+#### Content Delivery Network
+
+offers developers a global solution for rapidly delivering high-bandwidth content to users by caching their content at strategically placed physical nodes across the world.
+
+### Network monitoring services
+
+services in Azure that help monitor your network resources
+
+#### Azure Network Watcher
+
+monitor, diagnose, view metrics, and enable or disable logs
+
+#### Azure Monitor
+
+maximizes the availability and performance of your applications by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry
+
+#### ExpressRoute Monitor
+
+#### Network Insights

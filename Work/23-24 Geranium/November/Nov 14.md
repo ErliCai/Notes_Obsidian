@@ -1,7 +1,13 @@
+
+
+finished
+
 finish bucketization
 change mdm monitor to only generate sev2s
+help with ICM
 
 
+Not finished
 update hit count
 
 hit count is a built in field and cannot be edited
