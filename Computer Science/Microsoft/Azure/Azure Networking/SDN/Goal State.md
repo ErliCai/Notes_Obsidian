@@ -1,4 +1,0 @@
-
-A common term you'll hear used across the SDN organization is "**goal state**". In the previous example, the goal state expressed by the customer is purely logical; they want some virtual machines in their virtual network with specific networking characteristics. This goal state is taken from the customer and passed from component to component, undergoing transformations at each step, until the customer's desired Virtual Network exists somewhere in our datacenters.
-
-This term is also commonly used in a relative sense when describing interactions across components. From RNM's perspective, one example of publishing goal state would be publishing the desired configuration of a customer's network into the PubSub component. In a different context, "goal state" might refer to the specific routing rules being programmed at the node level (e.g. on **NMAgent (Network Manager Agent)**).

@@ -1,1 +1,0 @@
-Each item of data in C++ has an associated type. The value 10, for example, has a type of `int` (or, more colloquially, “is an `int`”). One example of a type error is passing a string literal to a function that expects an `int` argument.
