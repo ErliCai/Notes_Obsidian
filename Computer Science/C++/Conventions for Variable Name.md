@@ -1,4 +1,0 @@
-- An identifier should give some indication of its meaning
-- Variable names normally are lowercase—`index`, not `Index` or `INDEX`
-- classes we define usually begin with an uppercase letter
-- Identifiers with multiple words should visually distinguish each word, for example, `student_loan` or `studentLoan`, not `studentloan`.
