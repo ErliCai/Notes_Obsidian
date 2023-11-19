@@ -6,7 +6,7 @@
 
 #### ISE Alert flow update
 check email for how to do that
-
+The flow [Private Link Flow] Daily ISE Alert will be turned off in 15 days
 #### pe/pls runner monitor 
 
 - PE monitor owner?
@@ -26,5 +26,5 @@ check ajinkya's comment from last Friday
 
 #### PE S360 workitem
 
-#### Repair
+#### Repair ITEM
 
