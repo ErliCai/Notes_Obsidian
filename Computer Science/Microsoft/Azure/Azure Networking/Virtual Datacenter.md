@@ -2,7 +2,7 @@
 
 ### What is virtual datacenter
 
-Cloud solutions were `initially designed to host single,` relatively isolated applications in the public spectrum, which worked well for a few years. As the benefits of cloud solutions became clear, `multiple large-scale workloads` were hosted on the cloud. `Addressing security, reliability, performance, and cost concerns` is vital for the deployment and lifecycle of your cloud service.
+Cloud solutions were `initially designed to host single, relatively isolated applications` in the public spectrum, which worked well for a few years. As the benefits of cloud solutions became clear, `multiple large-scale workloads` were hosted on the cloud. `Addressing security, reliability, performance, and cost concerns` is vital for the deployment and lifecycle of your cloud service.
 
 Virtual datacenters help achieve the `scale` required for enterprise workloads. The scale must address the challenges introduced when running large-scale applications in the public cloud.
 
