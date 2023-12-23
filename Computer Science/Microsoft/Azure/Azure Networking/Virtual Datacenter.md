@@ -29,7 +29,38 @@ Depending on the size, even single applications can benefit from using the patte
 
 When designing a virtual datacenter, consider these pivotal issues:
 
-- Identity and directory service: to ensure that only authorized users and processes access your Azure resource
+- Identity and directory service: 
+    to ensure that only authorized users and processes access your Azure resource,  Azure uses several types of credentials for authentication, including account passwords, cryptographic keys, digital signatures, and certificates
 - Security infrastructure
+    This infrastructure specifies how ingress and egress are controlled in a VDC implementation
 - Connectivity to the cloud
+    A virtual datacenter requires connectivity to external networks to offer services to customers, partners, or internal users. This need for connectivity refers not only to the Internet, but also to on-premises networks and datacenters
 - Connectivity within the cloud
+
+### Topologies
+
+A virtual datacenter can be built using one of these high-level topologies, based on your needs and scale requirements:
+
+#### Flat Topology
+
+all resources are deployed in a single virtual network
+
+![[Flat Topology.png]]
+
+#### Mesh Topology
+
+In a _Mesh topology_, virtual network peering connects all virtual networks directly to each other
+
+![[Mesh Topology.png]]
+
+#### Peering hub and spoke topology
+
+A _Peering hub and spoke topology_ is well suited for distributed applications and teams with delegated responsibilities:
+
+![[Peering hub and spoke topology.png]]
+
+#### Azure Virtual WAN topology
+
+An _Azure Virtual WAN topology_ can support large-scale branch office scenarios and global WAN services
+![[Azure Virtual WAN Topology.png]]
+
