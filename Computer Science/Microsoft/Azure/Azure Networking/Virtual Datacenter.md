@@ -125,6 +125,8 @@ Many organizations use a variation of the following groups to provide a major br
 
 The VDC is designed so that central IT team groups that manage the hub have corresponding groups at the workload level. In addition to managing hub resources, the central IT team can control external access and top-level permissions on the subscriptions
 
+####
+
 The virtual datacenter is partitioned to securely host multiple projects across different lines of business. All projects require different isolated environments (dev, UAT, and production). Separate Azure subscriptions for each of these environments can provide natural isolation
 
 Typically in IT, an environment (or tier) is a system in which multiple applications are deployed and executed. Large enterprises use a development environment (where changes are made and tested) and a production environment (what end-users use). Those environments are separated, often with several staging environments in between them, to allow phased deployment (rollout), testing, and rollback if problems arise.
