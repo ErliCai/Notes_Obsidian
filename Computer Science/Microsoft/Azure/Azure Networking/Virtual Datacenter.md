@@ -64,3 +64,67 @@ A _Peering hub and spoke topology_ is well suited for distributed applications
 An _Azure Virtual WAN topology_ can support large-scale branch office scenarios and global WAN services
 ![[Azure Virtual WAN Topology.png]]
 
+#### hub and spoke design
+
+The peering hub and spoke topology and the Azure Virtual WAN topology both use a hub and spoke design, which is optimal for:
+- communication, 
+- shared resources, 
+- and centralized security policy
+
+`the hub` is the central network zone that controls and inspects all traffic between different zones such as the internet, on-premises, and the spokes
+
+The role of each `spoke` can be to host different types of workloads. The spokes also provide a modular approach for repeatable deployments of the same workloads.
+
+The hub often contains common service components consumed by the spokes. The following examples are common central services:
+- Windows Active Directory infrastructure
+- Distributed Name System
+- public key infrastructure
+- Flow control of TCP and UDP traffi
+- Flow control between the spokes and on-premises
+
+A virtual datacenter reduces overall cost by using the shared hub infrastructure between multiple spokes
+
+### Subscription limits and multiple hubs
+
+A single VDC implementation can scale up a large number of spokes. Although, as with every IT system, there are `platform limits`
+
+The hub deployment is bound to a specific Azure subscription, which has restrictions and limits (for example, a maximum number of virtual network peerings)
+
+In cases where limits might be an issue, the architecture can `scale up further by extending the model from a single hub-spokes to a cluster of hub and spokes.` Multiple hubs in one or more Azure regions can be connected using virtual network peering, ExpressRoute, Virtual WAN, or Site-to-Site VPN
+
+In scenarios requiring multiple hubs, all the hubs should strive to offer the same set of services for operational ease
+![[Multi hubs.png]]
+### Interconnection between spokes
+
+An architect might want to deploy a multitier workload across multiple virtual networks. 
+With virtual network peering, spokes can connect to other spokes in the same hub or different hubs. 
+
+A typical example of this scenario is the case where application processing servers are in one spoke, or virtual network. The database deploys in a different spoke, or virtual network. In this case, it's easy to interconnect the spokes with virtual network peering, which avoids transiting through the hub. 
+
+Complete a careful architecture and `security review` to ensure that bypassing the hub doesn't bypass important security or auditing points that might exist only in the hub.
+
+Spokes can also interconnect to a spoke that acts as a hub. This approach creates a two-level hierarchy. The spoke in the higher level (level 0) becomes the hub of lower spokes (level 1) of the hierarchy.
+
+`Although Azure allows complex topologies, one of the core principles of the VDC concept is repeatability and simplicity. To minimize management effort, the simple hub-spoke design is the VDC reference architecture that we recommend.`
+
+### Components
+
+The virtual datacenter is made up of four basic component types: **Infrastructure**, **Perimeter Networks**, **Workloads**, and **Monitoring**.
+
+![[VDC Componenets.png]]
+
+
+#### Access Right
+
+As good practice in general, `access rights and privileges can be group-based`. Dealing with groups rather than individual users eases maintenance of access policies, by providing a consistent way to manage it across teams, which aids in minimizing configuration errors. Assigning and removing users to and from appropriate groups helps keep the privileges of a specific user up to date.
+
+Many organizations use a variation of the following groups to provide a major breakdown of roles:
+- The central IT team named **Corp** has the ownership rights to control infrastructure components
+- The dev/test group named **AppDevOps** has the responsibility to deploy app or service workloads
+- The operation and maintenance group called **CorpInfraOps** or **AppInfraOps** has the responsibility of managing workloads in production
+
+The VDC is designed so that central IT team groups that manage the hub have corresponding groups at the workload level. In addition to managing hub resources, the central IT team can control external access and top-level permissions on the subscriptions
+
+The virtual datacenter is partitioned to securely host multiple projects across different lines of business. All projects require different isolated environments (dev, UAT, and production). Separate Azure subscriptions for each of these environments can provide natural isolation
+
+Typically in IT, an environment (or tier) is a system in which multiple applications are deployed and executed. Large enterprises use a development environment (where changes are made and tested) and a production environment (what end-users use). Those environments are separated, often with several staging environments in between them, to allow phased deployment (rollout), testing, and rollback if problems arise.
