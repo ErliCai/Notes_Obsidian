@@ -125,8 +125,52 @@ Many organizations use a variation of the following groups to provide a major br
 
 The VDC is designed so that central IT team groups that manage the hub have corresponding groups at the workload level. In addition to managing hub resources, the central IT team can control external access and top-level permissions on the subscriptions
 
-####
-
 The virtual datacenter is partitioned to securely host multiple projects across different lines of business. All projects require different isolated environments (dev, UAT, and production). Separate Azure subscriptions for each of these environments can provide natural isolation
 
 Typically in IT, an environment (or tier) is a system in which multiple applications are deployed and executed. Large enterprises use a development environment (where changes are made and tested) and a production environment (what end-users use). Those environments are separated, often with several staging environments in between them, to allow phased deployment (rollout), testing, and rollback if problems arise.
+
+Deployment architectures vary significantly, but usually the basic process of starting at `development (DEV) `and ending at `production (PROD)` is still followed.
+
+A common architecture for these types of multitier environments includes `DevOps for development and testing`, `UAT for staging, and production environments`.
+
+#### Component type: infrastructure
+
+This component type is where most of the supporting infrastructure resides. It's also where your `centralized IT, security, and compliance` teams spend most of their time.
+
+Infrastructure components provide an interconnection for the different components of a VDC implementation, and are present in both the hub and the spokes. The responsibility for managing and maintaining the infrastructure components is typically assigned to the central IT team or security team.
+
+functionality:
+- Identity and directory services
+- vnet
+- vnet peering
+- service endpoint
+- private link
+- user defined routes
+- NSG
+- DNS
+- Management group, subscription, and resource group management
+- Azure role-based access control (Azure RBAC)
+
+#### Component Type: Perimeter Networks
+
+Components of a perimeter network (sometimes called a DMZ network) connect your on-premises or physical datacenter networks, along with any internet connectivity. The perimeter typically requires a significant time investment from your network and security teams.
+
+Incoming packets can flow through the security appliances in the hub before reaching the back-end servers and services in the spokes. Examples include the firewall, IDS, and IPS. Before they leave the network, internet-bound packets from the workloads can also flow through the security appliances in the perimeter network. This flow enables `policy enforcement, inspection, and auditing.`
+
+  
+#### Component type: monitoring
+
+Monitoring components provide visibility and alerting from all the other component types. All teams can have access to monitoring for the components and services they have access to. If you have a centralized help desk or operations teams, they require integrated access to the data provided by these components.
+
+There are two fundamental types of logs in Azure Monitor:
+
+- Metrics are numerical values that describe some aspect of a system at a particular point in time. They're lightweight and capable of supporting near real-time scenarios.
+- Logs contain different kinds of data organized into records with different sets of properties for each type. Events and traces are stored as logs along with performance data, which can all be combined for analysis.
+
+Azure Monitor collects data from each of the following tiers:
+- **Application monitoring data**
+- **Guest OS monitoring data**
+- **Azure resource monitoring data** 
+- **Azure subscription monitoring data** 
+- **Azure tenant monitoring data**
+- **Custom sources**
