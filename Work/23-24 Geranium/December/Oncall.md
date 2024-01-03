@@ -19,3 +19,16 @@ Azure VM conected to SQL DB via Private endpoint on old control ring even SQL DB
 There was CA-PA mappaing between private endpoint IP and SQL Gateway VIP.  When we investigate NMAgent logs, we only found below entry during that time.
 
 According to SQL team, they migrated SQL dataslice to different control rings but the client still connected to old rings which resulted the failured
+
+
+
+### [Incident-428737782 Details - IcM (microsofticm.com)](https://portal.microsofticm.com/imp/v3/incidents/details/428737782/home)
+
+the customer informed that they tried RG deletion again and again it failed with the same error.
+
+usually happens when the P.E is associated with Cosmos DB.
+
+
+The resource was eventually deleted.
+But the resource deletion was marked as failed.
+The endpoint was deleted successfully.
