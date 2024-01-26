@@ -1,7 +1,8 @@
 Blogs:
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs?tab=readme-ov-file)
+- [CoolShell 左耳朵耗子](https://coolshell.cn/)
 - [李运华（极客时间“大厂晋升指南”作者，阿里P9)](https://blog.csdn.net/yunhua_lee)
 - [Brandan Gregg （System performance 作者）](https://www.brendangregg.com/blog/)
-- [CoolShell 左耳朵耗子](https://coolshell.cn/)
 - [晚点（科技商业）](https://www.latepost.com/)
 
 
