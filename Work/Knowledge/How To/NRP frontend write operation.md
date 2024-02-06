@@ -6,3 +6,4 @@ e.g. /subscriptions/7e865b18-af22-4e5b-8bfb-15527a42417e/resourceGroups/mros-eas
 
 
 ![[invoke nrp frontend write operation.png]]
+
