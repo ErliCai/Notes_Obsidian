@@ -166,3 +166,29 @@ annotation-target: Computer Networking _ A Top Down Approach.pdf
 >%%TAGS%%
 >
 ^40ovhgv541c
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-08T21:23:01.225Z","text":"Home Access: DSL, cable, FTTH, Dial-up, satellite\n\nDSL: Digital Subscriber Line\n- use existing phone line\n- encode in different frequency, thus appear to have three separate links\n- Asymmetric\n\nCable\n- uses cable tv's existing infra\n- shared broadcast medium\n- distributed multiaccess protocol to coordinate transmission and avoid collision\n\nFTTH: direct fibre, AON, PON      ","updated":"2024-02-08T21:23:01.225Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":66721,"end":66739},{"type":"TextQuoteSelector","exact":"residential access","prefix":"st prevalent types of broadband ","suffix":" are digital subscriber line (DS"}]}]}
+>```
+>%%
+>*%%PREFIX%%st prevalent types of broadband%%HIGHLIGHT%% ==residential access== %%POSTFIX%%are digital subscriber line (DS*
+>%%LINK%%[[#^28oo5fu3ewf|show annotation]]
+>%%COMMENT%%
+>Home Access: DSL, cable, FTTH, Dial-up, satellite
+>
+>DSL: Digital Subscriber Line
+>- use existing phone line
+>- encode in different frequency, thus appear to have three separate links
+>- Asymmetric
+>
+>Cable
+>- uses cable tv's existing infra
+>- shared broadcast medium
+>- distributed multiaccess protocol to coordinate transmission and avoid collision
+>
+>FTTH: direct fibre, AON, PON      
+>%%TAGS%%
+>
+^28oo5fu3ewf
