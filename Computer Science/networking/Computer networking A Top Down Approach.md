@@ -192,3 +192,53 @@ annotation-target: Computer Networking _ A Top Down Approach.pdf
 >%%TAGS%%
 >
 ^28oo5fu3ewf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-11T03:16:37.797Z","text":"LAN (Local Area network): Ethernet nad WiFi","updated":"2024-02-11T03:16:37.797Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":74879,"end":74937},{"type":"TextQuoteSelector","exact":"Access in the Enterprise (and the Home): Ethernet and WiFi","prefix":"s excruciatingly slow at 56kbps.","suffix":"On corporate and university camp"}]}]}
+>```
+>%%
+>*%%PREFIX%%s excruciatingly slow at 56kbps.%%HIGHLIGHT%% ==Access in the Enterprise (and the Home): Ethernet and WiFi== %%POSTFIX%%On corporate and university camp*
+>%%LINK%%[[#^5f9ri9qeu9n|show annotation]]
+>%%COMMENT%%
+>LAN (Local Area network): Ethernet nad WiFi
+>%%TAGS%%
+>
+^5f9ri9qeu9n
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-11T03:20:13.647Z","updated":"2024-02-11T03:20:13.647Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":82639,"end":82896},{"type":"TextQuoteSelector","exact":"When fiber-optic technology emerged in the 1980s, many people disparaged twisted pair because of itsrelatively low bit rates. Some people even felt that fiber-optic technology would completely replacetwisted pair. But twisted pair did not give up so easily.","prefix":"etween transmitter and receiver.","suffix":" Modern twisted-pair technology,"}]}]}
+>```
+>%%
+>*%%PREFIX%%etween transmitter and receiver.%%HIGHLIGHT%% ==When fiber-optic technology emerged in the 1980s, many people disparaged twisted pair because of itsrelatively low bit rates. Some people even felt that fiber-optic technology would completely replacetwisted pair. But twisted pair did not give up so easily.== %%POSTFIX%%Modern twisted-pair technology,*
+>%%LINK%%[[#^m88h09bezgc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^m88h09bezgc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-11T03:33:13.890Z","text":"Physical Medium\n- guided media\n  - Twisted-pair copper wire\n  - Fiber optics\n- unguided media\n  - Terrestrial Radio channel\n  - Satellite radio channel\n    - geostationary satellite\n    - Low- earth orbital (LEO) satellite","updated":"2024-02-11T03:33:13.890Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":78899,"end":78913},{"type":"TextQuoteSelector","exact":"Physical Media","prefix":" (and more!) in Chapter 7.1.2.2 ","suffix":"In the previous subsection, we g"}]}]}
+>```
+>%%
+>*%%PREFIX%%(and more!) in Chapter 7.1.2.2%%HIGHLIGHT%% ==Physical Media== %%POSTFIX%%In the previous subsection, we g*
+>%%LINK%%[[#^f4it3e2mv3q|show annotation]]
+>%%COMMENT%%
+>Physical Medium
+>- guided media
+>  - Twisted-pair copper wire
+>  - Fiber optics
+>- unguided media
+>  - Terrestrial Radio channel
+>  - Satellite radio channel
+>    - geostationary satellite
+>    - Low- earth orbital (LEO) satellite
+>%%TAGS%%
+>
+^f4it3e2mv3q
