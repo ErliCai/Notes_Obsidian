@@ -13,6 +13,8 @@ Learning Resources：
 - [azure documentation](https://learn.microsoft.com/en-us/azure/)
 
 
+[Azure App Service Architecture | Tech Notebook by Lucas (lucas-sousa.com)](https://lucas-sousa.com/azure-app-services-architecture/)
+
 
 Useful sites:
 Web to pdf: https://webtopdf.com/
