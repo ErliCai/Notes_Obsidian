@@ -1,4 +1,4 @@
-
+https://www.bilibili.com/video/BV18J411t7LR/?spm_id_from=333.337.search-card.all.click&vd_source=ef2a3792f686569c10aeb68946537eed
 
 
 #### 安全摔倒
@@ -11,3 +11,15 @@
    [预防摔倒](https://www.bilibili.com/video/BV1yw411w7k7/?spm_id_from=333.788.recommend_more_video.-1&vd_source=ef2a3792f686569c10aeb68946537eed)
 
 #### 推坡
+
+
+#### J弯
+
+- 板头朝下 刹车
+- 过程中不换刃
+- 前/后刃 + 左/右弯
+
+
+#### C弯
+
+- 换刃过程中 重心在前脚
