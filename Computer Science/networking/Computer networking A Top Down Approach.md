@@ -242,3 +242,75 @@ annotation-target: Computer Networking _ A Top Down Approach.pdf
 >%%TAGS%%
 >
 ^f4it3e2mv3q
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-12T06:39:56.772Z","updated":"2024-02-12T06:39:56.772Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":89736,"end":89907},{"type":"TextQuoteSelector","exact":"Store-and-forwardtransmission means that the packet switch must receive the entire packet before it can begin to transmitthe first bit of the packet onto the outbound link","prefix":"ion at the inputs to the links. ","suffix":". To explore store-and-forward t"}]}]}
+>```
+>%%
+>*%%PREFIX%%ion at the inputs to the links.%%HIGHLIGHT%% ==Store-and-forwardtransmission means that the packet switch must receive the entire packet before it can begin to transmitthe first bit of the packet onto the outbound link== %%POSTFIX%%. To explore store-and-forward t*
+>%%LINK%%[[#^bfysva2q45|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bfysva2q45
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-12T06:40:19.750Z","text":"output buffer: stores packets that the router is about to send\n\nif full -> packet loss -> drop arriving packet/ queued packets","updated":"2024-02-12T06:40:19.750Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":93171,"end":93201},{"type":"TextQuoteSelector","exact":"Queuing Delays and Packet Loss","prefix":"ts sent over a series of Nlinks.","suffix":"Each packet switch has multiple "}]}]}
+>```
+>%%
+>*%%PREFIX%%ts sent over a series of Nlinks.%%HIGHLIGHT%% ==Queuing Delays and Packet Loss== %%POSTFIX%%Each packet switch has multiple*
+>%%LINK%%[[#^ov9nrtrk1eh|show annotation]]
+>%%COMMENT%%
+>output buffer: stores packets that the router is about to send
+>
+>if full -> packet loss -> drop arriving packet/ queued packets
+>%%TAGS%%
+>
+^ov9nrtrk1eh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-12T06:42:53.822Z","updated":"2024-02-12T06:42:53.822Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":96149,"end":96517},{"type":"TextQuoteSelector","exact":"each router has a forwarding table thatmaps destination addresses (or portions of the destination addresses) to that router’s outbound links.When a packet arrives at a router, the router examines the address and searches its forwarding table,using this destination address, to find the appropriate outbound link. The router then directs the packetto this outbound link","prefix":"cent router. More specifically, ","suffix":".The end-to-end routing process "}]}]}
+>```
+>%%
+>*%%PREFIX%%cent router. More specifically,%%HIGHLIGHT%% ==each router has a forwarding table thatmaps destination addresses (or portions of the destination addresses) to that router’s outbound links.When a packet arrives at a router, the router examines the address and searches its forwarding table,using this destination address, to find the appropriate outbound link. The router then directs the packetto this outbound link== %%POSTFIX%%.The end-to-end routing process*
+>%%LINK%%[[#^bm5xy7ovl0v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bm5xy7ovl0v
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-12T06:54:25.029Z","text":"circuit switch v.s. packet switch","updated":"2024-02-12T06:54:25.029Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":99453,"end":99887},{"type":"TextQuoteSelector","exact":"In circuit-switched networks, the resources needed along a path (buffers, link transmission rate) toprovide for communication between the end systems are reserved for the duration of the communicationsession between the end systems. In packet-switched networks, these resources are not reserved; asession’s messages use the resources on demand and, as a consequence, may have to wait (that is,queue) for access to a communication link","prefix":"on to circuit-switched networks.","suffix":". As a simple analogy, consider "}]}]}
+>```
+>%%
+>*%%PREFIX%%on to circuit-switched networks.%%HIGHLIGHT%% ==In circuit-switched networks, the resources needed along a path (buffers, link transmission rate) toprovide for communication between the end systems are reserved for the duration of the communicationsession between the end systems. In packet-switched networks, these resources are not reserved; asession’s messages use the resources on demand and, as a consequence, may have to wait (that is,queue) for access to a communication link== %%POSTFIX%%. As a simple analogy, consider*
+>%%LINK%%[[#^ukqsz1lnf1p|show annotation]]
+>%%COMMENT%%
+>circuit switch v.s. packet switch
+>%%TAGS%%
+>
+^ukqsz1lnf1p
+
+
+>%%
+>```annotation-json
+>{"created":"2024-02-12T06:54:52.988Z","updated":"2024-02-12T06:54:52.988Z","document":{"title":"Computer Networking: A Top-Down Approach, 7th Edition","link":[{"href":"urn:x-pdf:8ab23c2355d202449f37ee1756d29912"},{"href":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf"}],"documentFingerprint":"8ab23c2355d202449f37ee1756d29912"},"uri":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","target":[{"source":"vault:/Computer Science/networking/Computer Networking _ A Top Down Approach.pdf","selector":[{"type":"TextPositionSelector","start":100750,"end":101335},{"type":"TextQuoteSelector","exact":"his is a bona fide connection for which the switches on the path between thesender and receiver maintain connection state for that connection. In the jargon of telephony, thisconnection is called a circuit. When the network establishes the circuit, it also reserves a constanttransmission rate in the network’s links (representing a fraction of each link’s transmission capacity) forthe duration of the connection. Since a given transmission rate has been reserved for this sender-to-receiver connection, the sender can transfer the data to the receiver at the guaranteed constant rate","prefix":"en thesender and the receiver. T","suffix":".Figure 1.13 illustrates a circu"}]}]}
+>```
+>%%
+>*%%PREFIX%%en thesender and the receiver. T%%HIGHLIGHT%% ==his is a bona fide connection for which the switches on the path between thesender and receiver maintain connection state for that connection. In the jargon of telephony, thisconnection is called a circuit. When the network establishes the circuit, it also reserves a constanttransmission rate in the network’s links (representing a fraction of each link’s transmission capacity) forthe duration of the connection. Since a given transmission rate has been reserved for this sender-to-receiver connection, the sender can transfer the data to the receiver at the guaranteed constant rate== %%POSTFIX%%.Figure 1.13 illustrates a circu*
+>%%LINK%%[[#^1vrhx275yzc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1vrhx275yzc
